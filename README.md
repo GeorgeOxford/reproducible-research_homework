@@ -1,6 +1,8 @@
 # Reproducible research: version control and R
 
 \# INSERT ANSWERS HERE #
+Questions 1,2, and 3:
+https://github.com/GeorgeOxford/logistic_growth
 
 ## Instructions
 

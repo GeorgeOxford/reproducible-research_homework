@@ -12,7 +12,7 @@ What is a random seed?
 A random seed is the start number for a random sequence of numbers to be generated using a random number generator. 
 
 Brownian path plot:
-![Alt text](paste_the_copied_url_here)
+![Alt text](Code_changes_brownian.png)
 
 
 

@@ -4,6 +4,7 @@
 library(ggplot2)
 library(gridExtra)
 
+
 random_walk  <- function (n_steps) {
   
   set.seed(100)

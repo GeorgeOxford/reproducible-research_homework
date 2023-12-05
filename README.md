@@ -10,6 +10,12 @@ Two plots are formed showing a grid with coordinates on the axis. Random paths a
 
 What is a random seed?
 A random seed is the start number for a random sequence of numbers to be generated using a random number generator. 
+
+Brownian path plot:
+![Alt text](paste_the_copied_url_here)
+
+
+
 ## Instructions
 
 The homework for this Computer skills practical is divided into 5 questions for a total of 100 points (plus an optional bonus question worth 10 extra points). First, fork this repo and make sure your fork is made **Public** for marking. Answers should be added to the # INSERT ANSWERS HERE # section above in the **README.md** file of your forked repository.

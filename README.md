@@ -17,7 +17,6 @@ Brownian path code changes:
 Question 5:
 The dataset has 13 columns and 33 rows.
 The data is highly skewed and so a log tranformation to both the genome length and the virion volume is appropriate. 
-The exponent is 7.0748, p-value = 2.28e-10, and the scaling factor is 1.5152, p-value = 6.44e-10. 
 
 
 

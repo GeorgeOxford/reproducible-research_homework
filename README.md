@@ -17,7 +17,7 @@ Brownian path code changes:
 Question 5:
 The dataset has 13 columns and 33 rows.
 The data is highly skewed and so a log tranformation to both the genome length and the virion volume is appropriate. 
-The exponent (alpha) is 1.5152, p-value = 6.44e-10, and the scaling factor (beta) is 1181.807, p-value = 2.28e-10. These are both statistically significant at an apha of 0.001. 
+The exponent (alpha) is 1.5152, p-value = 6.44e-10, and the scaling factor (beta) is 1181.807, p-value = 2.28e-10. These are both statistically significant at an apha of 0.001. The values obtained are also the same as those obtained in the 2014, Cui, Schlub and Holmes article.
 
 
 

@@ -25,6 +25,10 @@ The code for the figure can be found in question-5-data/Plot_code.R.
 
 The estimated volume of a 300kb virus is 6697006nm^3. 
 
+Bonus: the difference between reproducability and replicability
+Reproducability refers to the ability to produce consistent results when applying the same analysis to the same data, whilst replicability is when similar results can be obtained when performing the same analysis but with different data collected under similar conditions. 
+
+
 
 
 

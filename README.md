@@ -6,15 +6,18 @@ https://github.com/GeorgeOxford/logistic_growth
 
 Question 4: 
 What do you observe?
+
 Two plots are formed showing a grid with coordinates on the axis. Random paths are formed with the number of steps (distance) shown by the colour of the path. the direction of the path changes randomly with each step and continues to 500 steps. There are no limits to the coordinates but the path is limited by a distance of 0.25 per step.
 
 What is a random seed?
+
 A random seed is the start number for a random sequence of numbers to be generated using a random number generator. 
 
 Brownian path code changes:
 ![Alt text](Code_changes_brownian.png) 
 
 Question 5:
+
 The dataset has 13 columns and 33 rows.
 
 The data is highly skewed and so a log tranformation to both the genome length and the virion volume is appropriate. 
@@ -26,6 +29,7 @@ The code for the figure can be found in question-5-data/Plot_code.R.
 The estimated volume of a 300kb virus is 6697006nm^3. 
 
 Bonus: the difference between reproducability and replicability
+
 Reproducability refers to the ability to produce consistent results when applying the same analysis to the same data, whilst replicability is when similar results can be obtained when performing the same analysis but with different data collected under similar conditions. 
 
 Git is a version control system that allows developers to collaborate on a project by sharing files/code whilst also tracking changes that are made during development. Github is an online platform that provides a cloud to store git repositories and can be accessed by anyone given permission. 

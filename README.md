@@ -28,6 +28,9 @@ The estimated volume of a 300kb virus is 6697006nm^3.
 Bonus: the difference between reproducability and replicability
 Reproducability refers to the ability to produce consistent results when applying the same analysis to the same data, whilst replicability is when similar results can be obtained when performing the same analysis but with different data collected under similar conditions. 
 
+Git is a version control system that allows developers to collaborate on a project by sharing files/code whilst also tracking changes that are made during development. Github is an online platform that provides a cloud to store git repositories and can be accessed by anyone given permission. 
+Git and Github are useful to enhance the reproducibility and replicability of data because they make it easier to share and save analysis code and data between researchers, and for future use. This means that when researchers are researching similar subjects or collaborating there will be less human error or inconsistency in thier results. 
+
 
 
 

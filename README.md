@@ -23,6 +23,10 @@ The exponent (alpha) is 1.5152, p-value = 6.44e-10, and the scaling factor (beta
 
 The code for the figure can be found in question-5-data/Plot_code.R.
 
+The estimated volume of a 300kb virus is 6697006nm^3. 
+
+
+
 
 
 

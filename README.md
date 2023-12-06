@@ -15,6 +15,7 @@ Brownian path code changes:
 ![Alt text](Code_changes_brownian.png) 
 
 Question 5:
+The dataset has 13 columns and 33 rows.
 
 
 

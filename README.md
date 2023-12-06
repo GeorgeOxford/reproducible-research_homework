@@ -16,6 +16,7 @@ Brownian path code changes:
 
 Question 5:
 The dataset has 13 columns and 33 rows.
+The data is highly skewed and so a log tranformation to both the genome length and the virion volume is appropriate. 
 
 
 

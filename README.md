@@ -10,6 +10,17 @@ Two plots are formed showing a grid with coordinates on the axis. Random paths a
 
 What is a random seed?
 A random seed is the start number for a random sequence of numbers to be generated using a random number generator. 
+
+Brownian path code changes:
+![Alt text](Code_changes_brownian.png) 
+
+Question 5:
+The dataset has 13 columns and 33 rows.
+The data is highly skewed and so a log tranformation to both the genome length and the virion volume is appropriate. 
+The exponent (alpha) is 1.5152, p-value = 6.44e-10, and the scaling factor (beta) is 1181.807, p-value = 2.28e-10. These are both statistically significant at an apha of 0.001. The values obtained are also the same as those obtained in the 2014, Cui, Schlub and Holmes article.
+
+
+
 ## Instructions
 
 The homework for this Computer skills practical is divided into 5 questions for a total of 100 points (plus an optional bonus question worth 10 extra points). First, fork this repo and make sure your fork is made **Public** for marking. Answers should be added to the # INSERT ANSWERS HERE # section above in the **README.md** file of your forked repository.

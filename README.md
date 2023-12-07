@@ -11,7 +11,7 @@ Two plots are formed showing a grid with coordinates on the axis. Random paths a
 
 What is a random seed?
 
-A random seed is the start number for a random sequence of numbers to be generated using a random number generator. 
+A random seed is the start number for a random sequence of numbers to be generated using a random number generator. Its a way of making random sequences reproducible.
 
 Brownian path code changes:
 ![Alt text](Code_changes_brownian.png) 

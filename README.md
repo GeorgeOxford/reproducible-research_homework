@@ -7,7 +7,7 @@ https://github.com/GeorgeOxford/logistic_growth
 Question 4: 
 What do you observe?
 
-Two plots are formed showing a grid with coordinates on the axis. Random paths are formed with the number of steps (distance) shown by the colour of the path. the direction of the path changes randomly with each step and continues to 500 steps. There are no limits to the coordinates but the path is limited by a distance of 0.25 per step.
+Two plots are formed showing a grid with coordinates on the axis. Random paths are formed with the number of steps (distance) shown by the colour of the path. The direction of the path changes randomly with each step and continues to 500 steps. There are no limits to the coordinates but the path is limited by a distance of 0.25 per step.
 
 What is a random seed?
 
